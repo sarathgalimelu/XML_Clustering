@@ -1,0 +1,138 @@
+<club>
+<phone>2636186</phone>
+<clubname>Bikers</clubname>
+<member>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Xena</firstname>
+  </name>
+  <phone>6968161</phone>
+  <email>Babbage.Xena@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>9132915</phone>
+  <email>Pirelli.George@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Judith</firstname>
+  </name>
+  <phone>7299644</phone>
+  <email>Papasotiriou.Judith@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>4401659</phone>
+  <email>Chirac.Ralf@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>1535040</phone>
+  <email>Steinbrecher.Terry@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>7781285</phone>
+  <email>Wilkinson.Anne@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Wong</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>5463248</phone>
+  <email>Wong.George@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+  <phone>4031829</phone>
+  <email>Robertson.Leonidas@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>8596619</phone>
+  <email>VanGalder.Martin@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Jennifer</firstname>
+  </name>
+  <phone>1160498</phone>
+  <email>Schumacher.Jennifer@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>5347433</phone>
+  <email>Babbage.Marvin@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>7442932</phone>
+  <email>Curtis.Natassa@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Stonebraker</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>6352660</phone>
+  <email>Stonebraker.Donko@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Stonebraker</lastname>
+  <firstname>Mark</firstname>
+  </name>
+  <phone>1657498</phone>
+  <email>Stonebraker.Mark@coldmail.com</email>
+  <title>founder</title>
+</member>
+</club>

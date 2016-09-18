@@ -1,0 +1,60 @@
+<bib>
+
+  <vendor id="id7_8">
+     <name>B. Dalton Books</name>
+     <email>book_sales@b_dalton.com</email>
+     <phone>1-800-999-7863</phone>
+
+     <book>
+          <title>The Pelican History of Greece</title>
+          <publisher>Penguin</publisher>
+          <year>1993</year>
+          <author>
+               <firstname>Andrew</firstname>
+          </author>
+          <price>92.91</price>
+     </book>
+     <book>
+          <title>Classics of Western Thought</title>
+          <publisher>Harcourt Brace Jovanovich</publisher>
+          <year>1991</year>
+          <author>
+               <firstname>Donald</firstname>
+          </author>
+          <price>30.93</price>
+     </book>
+     <book>
+          <title>Roots of the Western Tradition</title>
+          <publisher>McGraw-Hill</publisher>
+          <year>1990</year>
+          <author>
+               <firstname>Warren</firstname>
+          </author>
+          <price>17.46</price>
+     </book>
+     <book>
+          <title>Starting and Running a Profitable Investment Club</title>
+          <publisher>Random House</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>Thomas</firstname>
+          </author>
+          <author>
+               <firstname>Kenneth</firstname>
+          </author>
+          <price>0.45</price>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

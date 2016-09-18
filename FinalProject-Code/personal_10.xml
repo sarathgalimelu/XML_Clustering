@@ -1,0 +1,79 @@
+<company id="id10_11">
+  <cname>Doubleclick</cname>
+  <address>
+     <street>111 Internet Way</street>
+     <city>San Fransisco</city>
+     <state>CA</state>
+     <zip>88765</zip>
+  </address>
+  <personnel>
+     <person>
+          <name>
+               <given>Jim</given>
+               <family>Bowlan</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Herbert</given>
+               <family>Jansen</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Art</given>
+               <family>Bloom</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Ellen</given>
+               <family>Moore</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Pete</given>
+               <family>Williams</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>James</given>
+               <family>Drever</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Rob</given>
+               <family>Dot</family>
+          </name>
+          <email>dott@geology.wisc.edu</email>
+          <url>http://www.geology.wisc.edu/~dott</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Rolando</given>
+               <family>Baten</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Rob</given>
+               <family>Berger</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+   </personnel>
+</company>

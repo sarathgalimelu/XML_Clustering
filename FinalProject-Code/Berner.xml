@@ -1,0 +1,107 @@
+<W4F_DOC>
+  <Actor>
+    <Name>
+      <FirstName>Sara</FirstName>
+      <LastName>Berner</LastName>
+    </Name>
+    <Filmography>
+      <Movie>
+        <Title>North by Northwest</Title>
+		<Rating>3/5</Rating>
+        <Year>1959</Year>
+      </Movie>
+      <Movie>
+        <Title>Spring Reunion</Title>
+        <Year>1957</Year>
+      </Movie>
+      <Movie>
+        <Title>Naked Street, The</Title>
+        <Year>1955</Year>
+      </Movie>
+	        <Movie>
+        <Title>Girl Gets Moe, The</Title>
+        <Year>1997</Year>
+      </Movie>
+      <Movie>
+        <Title>Life During Wartime</Title>
+        <Year>1997</Year>
+      </Movie>
+      <Movie>
+        <Title>Overdrive</Title>
+        <Year>1997</Year>
+      </Movie>
+      <Movie>
+        <Title>Drive Baby Drive</Title>
+        <Year>1996</Year>
+      </Movie>
+      <Movie>
+        <Title>Se7en</Title>
+        <Year>1995</Year>
+      </Movie>
+      <Movie>
+        <Title>Nowhere to Hide</Title>
+        <Year>1994</Year>
+      </Movie>
+      <Movie>
+        <Title>Girls in Prison</Title>
+        <Year>1994</Year>
+      </Movie>
+      <Movie>
+        <Title>Pickle, The</Title>
+        <Year>1993</Year>
+      </Movie>
+      <Movie>
+        <Title>Rear Window</Title>
+        <Year>1954</Year>
+      </Movie>
+      <Movie>
+        <Title>Carrie</Title>
+        <Year>1952</Year>
+      </Movie>
+      <Movie>
+        <Title>"Hank McCune Show, The"</Title>
+        <Year>1950</Year>
+      </Movie>
+      <Movie>
+        <Title>City Across the River</Title>
+        <Year>1949</Year>
+      </Movie>
+      <Movie>
+        <Title>Story of Molly X, The</Title>
+        <Year>1949</Year>
+      </Movie>
+      <Movie>
+        <Title>Gay Intruders, The</Title>
+        <Year>1948</Year>
+      </Movie>
+      <Movie>
+        <Title>Backlash</Title>
+        <Year>1947</Year>
+      </Movie>
+      <Movie>
+        <Title>Wife Wanted</Title>
+        <Year>1946</Year>
+      </Movie>
+      <Movie>
+        <Title>Bashful Buzzard, The</Title>
+        <Year>1945</Year>
+      </Movie>
+      <Movie>
+        <Title>Road to Morocco</Title>
+        <Year>1942</Year>
+      </Movie>
+      <Movie>
+        <Title>Bugs Bunny Gets the Boid</Title>
+        <Year>1942</Year>
+      </Movie>
+      <Movie>
+        <Title>Lucky Jordan</Title>
+        <Year>1942</Year>
+      </Movie>
+      <Movie>
+        <Title>Henpecked Duck, The</Title>
+        <Year>1941</Year>
+      </Movie>
+    </Filmography>
+  </Actor>
+</W4F_DOC>

@@ -1,0 +1,32 @@
+<bib>
+
+  <vendor id="id2_3">
+     <name>Christian Books On-Line</name>
+     <email>webmaster@lowprice.com</email>
+     <phone>1-800-333-2222</phone>
+
+     <book>
+          <title>Organic Chemistry</title>
+          <publisher>Brooks/Cole Publishing</publisher>
+          <year>1994</year>
+          <author>
+               <firstname>John</firstname>
+               <lastname>McMurry</lastname>
+          </author>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

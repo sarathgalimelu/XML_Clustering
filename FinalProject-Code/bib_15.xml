@@ -1,0 +1,234 @@
+<bib>
+
+  <vendor id="id15_16">
+     <name>Livanis Books</name>
+     <email>info@livanis.com</email>
+     <phone>1-888-999-4344</phone>
+	 <paper>
+	 <title>History of Art, Volume II</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1993</year>
+          <author>
+               <firstname>Horst</firstname>
+               <lastname>Janson</lastname>
+          </author>
+          <price>47.10</price>
+	 </paper>
+     <book>
+          <title>Geomorphology, A Systematic Analysis of Late Cenozoic Landforms</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1990</year>
+          <author>
+               <firstname>Arthur</firstname>
+               <lastname>Bloom</lastname>
+          </author>
+          <price>92.74</price>
+     </book>
+     <book>
+          <title>Structural Geology</title>
+          <publisher>Freeman</publisher>
+          <year>1989</year>
+          <author>
+               <firstname>Robert</firstname>
+               <lastname>Twiss</lastname>
+          </author>
+          <author>
+               <firstname>Eldridge</firstname>
+               <lastname>Moores</lastname>
+          </author>
+          <price>44.76</price>
+     </book>
+     <book>
+          <title>American Government</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1992</year>
+          <author>
+               <firstname>Peter</firstname>
+               <lastname>Woll</lastname>
+          </author>
+          <price>36.77</price>
+     </book>
+     <book>
+          <title>The Geochemistry of Natural Waters</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1991</year>
+          <author>
+               <firstname>James</firstname>
+               <lastname>Drever</lastname>
+          </author>
+          <price>62.62</price>
+     </book>
+     <book>
+          <title>Evolution of the Earth</title>
+          <publisher>McGraw Hill</publisher>
+          <year>1985</year>
+          <author>
+               <firstname>Robert</firstname>
+               <lastname>Dott</lastname>
+          </author>
+          <author>
+               <firstname>Rodger</firstname>
+               <lastname>Batten</lastname>
+          </author>
+          <price>93.62</price>
+     </book>
+     <book>
+          <title>Exploration Geophysics of the Shallow Subsurface</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1988</year>
+          <author>
+               <firstname>Robert</firstname>
+               <lastname>Burger</lastname>
+          </author>
+          <price>11.13</price>
+     </book>
+     <book>
+          <title>Introduction To Groundwater Modeling</title>
+          <publisher>Freeman</publisher>
+          <year>1979</year>
+          <author>
+               <firstname>Herbert</firstname>
+               <lastname>Wang</lastname>
+          </author>
+          <author>
+               <firstname>Mary</firstname>
+               <lastname>Anderson</lastname>
+          </author>
+          <price>45.74</price>
+     </book>
+     <book>
+          <title>Puntos de Partida, an Invitation to Spanish</title>
+          <publisher>McGraw Hill</publisher>
+          <year>1997</year>
+          <author>
+               <firstname>Marty</firstname>
+               <lastname>Knorre</lastname>
+          </author>
+          <author>
+               <firstname>Thalia</firstname>
+               <lastname>Dorwick</lastname>
+          </author>
+          <author>
+               <firstname>William</firstname>
+               <lastname>Glass</lastname>
+          </author>
+          <author>
+               <firstname>Hildebrando</firstname>
+               <lastname>Villarreal</lastname>
+          </author>
+          <price>5.18</price>
+     </book>
+     <book>
+          <title>Geographic Information Systems</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1991</year>
+          <author>
+               <firstname>Jeffrey</firstname>
+               <lastname>Star</lastname>
+          </author>
+          <author>
+               <firstname>John</firstname>
+               <lastname>Estes</lastname>
+          </author>
+          <price>78.58</price>
+     </book>
+     <book>
+          <title>Unix Network Programming</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>Richard</firstname>
+               <lastname>Stevens</lastname>
+          </author>
+          <price>75.88</price>
+     </book>
+     <book>
+          <title>An Introduction to Object-Oriented Design in C++</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Jo</firstname>
+               <lastname>Levin</lastname>
+          </author>
+          <author>
+               <firstname>Harold</firstname>
+               <lastname>Perry</lastname>
+          </author>
+          <price>31.22</price>
+     </book>
+     <book>
+          <title>Computer Networks</title>
+          <publisher>Morgan Kaufmann</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Larry</firstname>
+               <lastname>Peterson</lastname>
+          </author>
+          <author>
+               <firstname>Bruce</firstname>
+               <lastname>Davie</lastname>
+          </author>
+          <price>33.57</price>
+     </book>
+     <book>
+          <title>Learning GNU Emacs</title>
+          <publisher>O'Reilly</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Debra</firstname>
+               <lastname>Cameron</lastname>
+          </author>
+          <author>
+               <firstname>Bill</firstname>
+               <lastname>Rosenblatt</lastname>
+          </author>
+          <author>
+               <firstname>Eric</firstname>
+               <lastname>Raymond</lastname>
+          </author>
+          <price>43.33</price>
+     </book>
+     <book>
+          <title>Running Linux</title>
+          <publisher>O'Reilly</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Matt</firstname>
+               <lastname>Welsh</lastname>
+          </author>
+          <author>
+               <firstname>Lar</firstname>
+               <lastname>Kaufman</lastname>
+          </author>
+          <price>23.70</price>
+     </book>
+     <book>
+          <title>Introducing the UNIX System</title>
+          <publisher>McGraw Hill</publisher>
+          <year>1983</year>
+          <author>
+               <firstname>Henry</firstname>
+               <lastname>McGilton</lastname>
+          </author>
+          <author>
+               <firstname>Rachel</firstname>
+               <lastname>Morgan</lastname>
+          </author>
+          <price>75.55</price>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

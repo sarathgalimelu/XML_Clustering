@@ -1,0 +1,425 @@
+<club>
+<clubname>Mountain Bike</clubname>
+
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+  
+  <email>Steinbrecher.Leonidas@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  
+  <email>Schumacher.Giancarlo@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>George</firstname>
+  </name>
+  
+  <email>Pirelli.George@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Judith</firstname>
+  </name>
+  
+  <email>Papasotiriou.Judith@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  
+  <email>Chirac.Ralf@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  
+  <email>Steinbrecher.Terry@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>George</firstname>
+  </name>
+
+  <email>Gustavson.George@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+
+  <email>Chirac.Ronald@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+
+  <email>Robertson.Tanya@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+
+  <email>Wilkinson.Cleopatra@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+<member>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+
+  <email>Gustavson.Marvin@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Maria</firstname>
+  </name>
+
+  <email>Papadimitriou.Maria@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+
+  <email>Branco.Gerasimos@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+
+  <email>Branco.Giancarlo@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Stratis</firstname>
+  </name>
+
+  <email>Darwin.Stratis@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+
+  <email>Jensen.Tanya@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Jason</firstname>
+  </name>
+
+  <email>Wilkinson.Jason@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Mark</firstname>
+  </name>
+
+  <email>Babbage.Mark@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+<member>
+  <name>
+  <lastname>Tzavaras</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+
+  <email>Tzavaras.Giancarlo@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Olajuwon</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+
+  <email>Olajuwon.Johnathan@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>David</firstname>
+  </name>
+
+  <email>Pirelli.David@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>Ivan</firstname>
+  </name>
+
+  <email>Pirelli.Ivan@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+
+  <email>VanGalder.Dorothy@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+
+  <email>Darwin.Cleopatra@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+
+  <email>Babbage.Jeff@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>Xena</firstname>
+  </name>
+
+  <email>Pirelli.Xena@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Jason</firstname>
+  </name>
+
+  <email>Schumacher.Jason@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Olajuwon</lastname>
+  <firstname>Ivan</firstname>
+  </name>
+
+  <email>Olajuwon.Ivan@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+
+  <email>Papasotiriou.Leonidas@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Green</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+
+  <email>Green.Marvin@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+
+  <email>Gray.Lydia@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Olajuwon</lastname>
+  <firstname>Jim</firstname>
+  </name>
+
+  <email>Olajuwon.Jim@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+
+  <email>Gray.Pedro@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+
+  <email>Schumacher.Jeff@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+
+  <email>Robins.Leonidas@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+
+  <email>Tsangaris.Giancarlo@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Makis</firstname>
+  </name>
+
+  <email>Curtis.Makis@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Judith</firstname>
+  </name>
+
+  <email>Branco.Judith@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+
+  <email>Hill.Gerasimos@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Martin</firstname>
+  </name>
+
+  <email>Davenport.Martin@coldmail.com</email>
+  <title>founder</title>
+</member>
+</club>

@@ -1,0 +1,31 @@
+<bib>
+
+  <vendor id="id3_4">
+     <name>QuickBooks</name>
+	 <email>webmaster@amazon.com</email>
+     <phone>1-800-333-9999</phone>
+
+     <book>
+          <publisher>Brooks/Cole Publishing</publisher>
+          <year>1991</year>
+          <author>
+               <firstname>James</firstname>
+               <lastname>Bowser</lastname>
+          </author>
+          <price>43.72</price>
+     </book>
+	 <book>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

@@ -1,0 +1,92 @@
+<company id="id18_19">
+  <cname>Dell Computer</cname>
+  <address>
+     <street>77 Sky High Drive</street>
+     <city>San Carlos</city>
+     <state>CA</state>
+     <zip>99876</zip>
+  </address>
+  <personnel>
+     <person>
+          <name>
+               <given>Art</given>
+               <family>Bloom</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Ellen</given>
+               <family>Moore</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Pete</given>
+               <family>Williams</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>James</given>
+               <family>Drever</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Rob</given>
+               <family>Dot</family>
+          </name>
+          <email>dott@geology.wisc.edu</email>
+          <url>http://www.geology.wisc.edu/~dott</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Rolando</given>
+               <family>Baten</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Rob</given>
+               <family>Berger</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Maryanne</given>
+               <family>Andersen</family>
+          </name>
+          <email>anderson@geology.wisc.edu</email>
+          <url>http://www.geology.wisc.edu/~anderson</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Herb</given>
+               <family>Wanng</family>
+          </name>
+          <email>wang@geology.wisc.edu</email>
+          <url>http://www.geology.wisc.edu/~wang</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Adiel</given>
+               <family>Yoaz</family>
+          </name>
+          <email>adiel@cs.wisc.edu</email>
+          <url>http://www.cs.wisc.edu/~adiel</url>
+     </person>
+
+   </personnel>
+</company>

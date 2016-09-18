@@ -1,0 +1,78 @@
+<company id="id6_7">
+  <cname>Apple Computer</cname>
+  <address>
+     <street>1 Infinite Loop</street>
+     <city>Palo Alto</city>
+     <state>CA</state>
+     <zip>44658</zip>
+  </address>
+  <personnel>
+     <person>
+          <name>
+               <given>Johnny</given>
+               <family>Levin</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Tommy</given>
+               <family>Masonite</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Charles</given>
+               <family>Fischer</family>
+          </name>
+          <email>fisher@cs.wisc.edu</email>
+          <url>http://www.cs.wisc.edu/~fischer</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Douglas</given>
+               <family>Browne</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Rick</given>
+               <family>LeBland</family>
+          </name>
+          <email>leblanc@ontario.edu</email>
+          <url>http://www.mcinet.com/~leblanc</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Roxxet</given>
+               <family>Peckman</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Elle</given>
+               <family>Kauf</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Fran</given>
+               <family>Friederman</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Jeff</given>
+               <family>Ullmand</family>
+          </name>
+     </person>
+
+   </personnel>
+</company>

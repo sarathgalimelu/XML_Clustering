@@ -1,0 +1,35 @@
+<bib>
+
+  <vendor id="id9_10">
+     <name>Books R Us</name>
+     <email>read@brus.com</email>
+     <phone>1-888-908-8987</phone>
+
+     <book>
+          <title>Running Linux</title>
+          <year>1996</year>
+          <author>
+               <firstname>Matt</firstname>
+               <lastname>Welsh</lastname>
+          </author>
+          <author>
+               <firstname>Lar</firstname>
+               <lastname>Kaufman</lastname>
+          </author>
+          <price>31.97</price>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

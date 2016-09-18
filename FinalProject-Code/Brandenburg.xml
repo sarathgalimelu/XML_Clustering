@@ -1,0 +1,126 @@
+<W4F_DOC>
+  <Actor>
+    <Name>
+      <FirstName>Larry</FirstName>
+      <LastName>Brandenburg</LastName>
+    </Name>
+	<DateOfBirth>
+	  <Year>1970</Year>
+      <Month>June</Month>
+	</DateOfBirth>
+    <Filmography>
+      <Movie>
+        <Title>Mod Squad, The</Title>
+        <Year>1999</Year>
+      </Movie>
+      <Movie>
+        <Title>Mighty Joe Young</Title>
+        <Year>1998</Year>
+      </Movie>
+      <Movie>
+        <Title>Major League: Back to the Minors</Title>
+        <Year>1998</Year>
+      </Movie>
+	        <Movie>
+        <Title>Girl Gets Moe, The</Title>
+        <Year>1997</Year>
+      </Movie>
+      <Movie>
+        <Title>Life During Wartime</Title>
+        <Year>1997</Year>
+      </Movie>
+      <Movie>
+        <Title>Overdrive</Title>
+        <Year>1997</Year>
+      </Movie>
+      <Movie>
+        <Title>Drive Baby Drive</Title>
+        <Year>1996</Year>
+      </Movie>
+      <Movie>
+        <Title>Se7en</Title>
+        <Year>1995</Year>
+      </Movie>
+      <Movie>
+        <Title>Nowhere to Hide</Title>
+        <Year>1994</Year>
+      </Movie>
+      <Movie>
+        <Title>Girls in Prison</Title>
+        <Year>1994</Year>
+      </Movie>
+      <Movie>
+        <Title>Pickle, The</Title>
+        <Year>1993</Year>
+      </Movie>
+      <Movie>
+        <Title>Fear and Loathing in Las Vegas</Title>
+        <Year>1998</Year>
+      </Movie>
+      <Movie>
+        <Title>Fargo</Title>
+        <Year>1996</Year>
+      </Movie>
+      <Movie>
+        <Title>Santa Clause, The</Title>
+        <Year>1994</Year>
+      </Movie>
+      <Movie>
+        <Title>Shawshank Redemption, The</Title>
+        <Year>1994</Year>
+      </Movie>
+      <Movie>
+        <Title>Mo' Money</Title>
+        <Year>1992</Year>
+      </Movie>
+      <Movie>
+        <Title>Desperate Choices: To Save My Child</Title>
+        <Year>1992</Year>
+      </Movie>
+      <Movie>
+        <Title>Shame</Title>
+        <Year>1992</Year>
+      </Movie>
+      <Movie>
+        <Title>Dillinger</Title>
+        <Year>1991</Year>
+      </Movie>
+      <Movie>
+        <Title>Hard Promises</Title>
+        <Year>1991</Year>
+      </Movie>
+      <Movie>
+        <Title>Good Night, Sweet Wife: A Murder in Boston</Title>
+        <Year>1990</Year>
+      </Movie>
+      <Movie>
+        <Title>Music Box</Title>
+        <Year>1990</Year>
+      </Movie>
+      <Movie>
+        <Title>Victimless Crimes</Title>
+        <Year>1990</Year>
+      </Movie>
+      <Movie>
+        <Title>Cold Justice</Title>
+        <Year>1989</Year>
+      </Movie>
+      <Movie>
+        <Title>Field of Dreams</Title>
+        <Year>1989</Year>
+      </Movie>
+      <Movie>
+        <Title>Untouchables, The</Title>
+        <Year>1987</Year>
+      </Movie>
+      <Movie>
+        <Title>Murder Ordained</Title>
+        <Year>1987</Year>
+      </Movie>
+      <Movie>
+        <Title>Grandview, U.S.A.</Title>
+        <Year>1984</Year>
+      </Movie>
+    </Filmography>
+  </Actor>
+</W4F_DOC>

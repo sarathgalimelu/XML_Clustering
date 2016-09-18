@@ -1,0 +1,79 @@
+<company id="id17_18">
+  <cname>Epic Systems</cname>
+  <address>
+     <street>324 University Ave</street>
+     <city>Madiso</city>
+     <state>WI</state>
+     <zip>55624</zip>
+  </address>
+  <personnel>
+     <person>
+          <name>
+               <given>Andy</given>
+               <family>Burnes</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Don</given>
+               <family>Gochbergen</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Thomas</given>
+               <family>O'Hara</family>
+          </name>
+          <email>ohara@betterinvesting.org</email>
+          <url>http://www.betterinvesting.org/ohara</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Doug</given>
+               <family>Kendal</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Bill</given>
+               <family>Janke</family>
+          </name>
+          <email>janke@betterinvesting.org</email>
+          <url>http://www.betterinvesting.org/janke</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Don</given>
+               <family>Westphal</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Rob</given>
+               <family>Twist</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Jim</given>
+               <family>Bowlan</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Herbert</given>
+               <family>Jansen</family>
+          </name>
+     </person>
+
+   </personnel>
+</company>

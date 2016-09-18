@@ -1,0 +1,437 @@
+<club>
+<member>
+  <name>
+  <lastname>Lewinski</lastname>
+  <firstname>Judith</firstname>
+  </name>
+  <phone>6182210</phone>
+  <email>Lewinski.Judith@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>9132915</phone>
+  <email>Pirelli.George@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Judith</firstname>
+  </name>
+  <phone>7299644</phone>
+  <email>Papasotiriou.Judith@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>4401659</phone>
+  <email>Chirac.Ralf@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>1535040</phone>
+  <email>Steinbrecher.Terry@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>7400302</phone>
+  <email>Papadimitriou.Tanya@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Judith</firstname>
+  </name>
+  <phone>5119370</phone>
+  <email>Jensen.Judith@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>McPherson</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>2196757</phone>
+  <email>McPherson.Cleopatra@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>7583377</phone>
+  <email>Papasotiriou.Giancarlo@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>3103707</phone>
+  <email>Darwin.Cleopatra@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>5062674</phone>
+  <email>Papasotiriou.Maria@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>9176430</phone>
+  <email>Chirac.Martin@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Tzavaras</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>9890883</phone>
+  <email>Tzavaras.Amy@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+<member>
+  <name>
+  <lastname>Lewinski</lastname>
+  <firstname>Alkis</firstname>
+  </name>
+  <phone>1805030</phone>
+  <email>Lewinski.Alkis@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+  <phone>725294</phone>
+  <email>Tsangaris.Jeff@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>McPherson</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>8056466</phone>
+  <email>McPherson.Anne@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+  <phone>353593</phone>
+  <email>Papadopoulos.Jeff@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>1011607</phone>
+  <email>Steinbrecher.George@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Joan</firstname>
+  </name>
+  <phone>4638263</phone>
+  <email>Papadimitriou.Joan@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Xena</firstname>
+  </name>
+  <phone>1889703</phone>
+  <email>Robins.Xena@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Perruci</lastname>
+  <firstname>Angelika</firstname>
+  </name>
+  <phone>3359728</phone>
+  <email>Perruci.Angelika@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Ivan</firstname>
+  </name>
+  <phone>207378</phone>
+  <email>Newman.Ivan@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>1563683</phone>
+  <email>Tsangaris.Terry@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>9728425</phone>
+  <email>Chirac.Marvin@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>6940132</phone>
+  <email>Chirac.Tanya@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>3032887</phone>
+  <email>Chirac.Giancarlo@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>972143</phone>
+  <email>VanGalder.Cleopatra@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>6607378</phone>
+  <email>Ross.Dorothy@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>9932143</phone>
+  <email>Robins.Dorothy@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Makis</firstname>
+  </name>
+  <phone>7266912</phone>
+  <email>Papadimitriou.Makis@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Miller</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>8561049</phone>
+  <email>Miller.Ralf@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>3681743</phone>
+  <email>Jensen.Marvin@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>8327290</phone>
+  <email>Gray.Pedro@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Olajuwon</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>1723319</phone>
+  <email>Olajuwon.Amy@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Tzavaras</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>4933311</phone>
+  <email>Tzavaras.Cleopatra@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>8998955</phone>
+  <email>Sellinger.Terry@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Carla</firstname>
+  </name>
+  <phone>3201439</phone>
+  <email>Davenport.Carla@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>7200493</phone>
+  <email>Curtis.Ronaldo@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+  <phone>322425</phone>
+  <email>Sellinger.Ronald@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Bestor</lastname>
+  <firstname>David</firstname>
+  </name>
+  <phone>2629956</phone>
+  <email>Bestor.David@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Dinkinson</lastname>
+  <firstname>Xena</firstname>
+  </name>
+  <phone>6228536</phone>
+  <email>Dinkinson.Xena@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>1236604</phone>
+  <email>Babbage.Johnathan@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+<member>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>9908601</phone>
+  <email>Branco.Markos@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Joan</firstname>
+  </name>
+  <phone>1890392</phone>
+  <email>Tsangaris.Joan@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>2153623</phone>
+  <email>Sellinger.George@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>7346074</phone>
+  <email>Kossman.Pedro@coldmail.com</email>
+  <title>visitor</title>
+</member>
+</club>

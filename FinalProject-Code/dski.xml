@@ -1,0 +1,358 @@
+<club>
+<clubname>Downhill Skiing</clubname>
+<member>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>8166789</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>9132915</phone>
+  
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Judith</firstname>
+  </name>
+  <phone>7299644</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>4401659</phone>
+  
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>1535040</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Stratis</firstname>
+  </name>
+  <phone>5050305</phone>
+  
+</member>
+<member>
+  <name>
+  <lastname>Dinkinson</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>9782055</phone>
+  
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>555194</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Alkis</firstname>
+  </name>
+  <phone>7710721</phone>
+  
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Makis</firstname>
+  </name>
+  <phone>8887010</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>7901111</phone>
+  
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Jennifer</firstname>
+  </name>
+  <phone>9900749</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>2396883</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>1017124</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>1107036</phone>
+  
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+  <phone>5857093</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Ivan</firstname>
+  </name>
+  <phone>1591885</phone>
+  
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Makis</firstname>
+  </name>
+  <phone>8040882</phone>
+  
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+<member>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>8012874</phone>
+  
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Lewinski</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>765688</phone>
+  
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>3354772</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Lewinski</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>5779953</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Jodi</firstname>
+  </name>
+  <phone>9312117</phone>
+  
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>3838391</phone>
+  
+</member>
+<member>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>5593840</phone>
+  
+</member>
+<member>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Judith</firstname>
+  </name>
+  <phone>5627848</phone>
+  
+</member>
+<member>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+  <phone>5302662</phone>
+  
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Dinkinson</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>4428406</phone>
+  
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>32568</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Miller</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>7734670</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  <firstname>Ivan</firstname>
+  </name>
+  <phone>7544617</phone>
+  
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+  <phone>6445160</phone>
+  
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+  <phone>3957616</phone>
+  
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>1694397</phone>
+  
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>1757341</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>8946162</phone>
+  
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>1461450</phone>
+  
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+</club>

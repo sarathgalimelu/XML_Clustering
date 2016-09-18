@@ -1,0 +1,202 @@
+<bib>
+
+  <vendor id="id0_1">
+     <name>Amazon</name>
+     <phone>1-800-555-9999</phone>
+
+     <book>
+          <title>Unix Network Programming</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>Richard</firstname>
+               <lastname>Stevens</lastname>
+          </author>
+          <price>38.68</price>
+     </book>
+     <book>
+          <title>An Introduction to Object-Oriented Design in C++</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Jo</firstname>
+               <lastname>Levin</lastname>
+          </author>
+          <author>
+               <firstname>Harold</firstname>
+               <lastname>Perry</lastname>
+          </author>
+          <price>11.55</price>
+     </book>
+     <book>
+          <title>Computer Networks</title>
+          <publisher>Morgan Kaufmann</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Larry</firstname>
+               <lastname>Peterson</lastname>
+          </author>
+          <author>
+               <firstname>Bruce</firstname>
+               <lastname>Davie</lastname>
+          </author>
+          <price>33.7</price>
+     </book>
+     <book>
+          <title>Learning GNU Emacs</title>
+          <publisher>O'Reilly</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Debra</firstname>
+               <lastname>Cameron</lastname>
+          </author>
+          <author>
+               <firstname>Bill</firstname>
+               <lastname>Rosenblatt</lastname>
+          </author>
+          <author>
+               <firstname>Eric</firstname>
+               <lastname>Raymond</lastname>
+          </author>
+          <price>40.33</price>
+     </book>
+     <book>
+          <title>Running Linux</title>
+          <publisher>O'Reilly</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Matt</firstname>
+               <lastname>Welsh</lastname>
+          </author>
+          <author>
+               <firstname>Lar</firstname>
+               <lastname>Kaufman</lastname>
+          </author>
+          <price>93.7</price>
+     </book>
+     <book>
+          <title>Introducing the UNIX System</title>
+          <publisher>McGraw Hill</publisher>
+          <year>1983</year>
+          <author>
+               <firstname>Henry</firstname>
+               <lastname>McGilton</lastname>
+          </author>
+          <author>
+               <firstname>Rachel</firstname>
+               <lastname>Morgan</lastname>
+          </author>
+          <price>14.94</price>
+     </book>
+     <book>
+          <title>Database Management Systems</title>
+          <publisher>McGraw Hill</publisher>
+          <year>1998</year>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+          <price>87.9</price>
+     </book>
+     <book>
+          <title>Operating Systems Concepts</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>Abraham</firstname>
+               <lastname>Silberschatz</lastname>
+          </author>
+          <author>
+               <firstname>Peter</firstname>
+               <lastname>Galvin</lastname>
+          </author>
+          <price>62.18</price>
+     </book>
+     <book>
+          <title>Database Systems, readings in</title>
+          <publisher>Morgan Kaufmann</publisher>
+          <year>1998</year>
+          <author>
+               <firstname>Michael</firstname>
+               <lastname>Stonebraker</lastname>
+          </author>
+          <author>
+               <firstname>Joseph</firstname>
+               <lastname>Hellerstein</lastname>
+          </author>
+          <price>94.91</price>
+     </book>
+     <book>
+          <title>Data Abstraction and Problem Solving with C++</title>
+          <publisher>Benjamin Cummings</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>Frank</firstname>
+               <lastname>Carrano</lastname>
+          </author>
+          <price>28.6</price>
+     </book>
+     <book>
+          <title>Learning Perl</title>
+          <publisher>O'Reilly</publisher>
+          <year>1997</year>
+          <author>
+               <firstname>Randal</firstname>
+               <lastname>Schwartz</lastname>
+          </author>
+          <author>
+               <firstname>Tom</firstname>
+               <lastname>Christiansen</lastname>
+          </author>
+          <price>25.5</price>
+     </book>
+     <book>
+          <title>UNIX in a Nutshell</title>
+          <publisher>O'Reilly</publisher>
+          <year>1998</year>
+          <author>
+               <firstname>Daniel</firstname>
+               <lastname>Gilly</lastname>
+          </author>
+          <price>81.8</price>
+     </book>
+     <book>
+          <title>The Java Programming Language</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Ken</firstname>
+               <lastname>Arnold</lastname>
+          </author>
+          <author>
+               <firstname>James</firstname>
+               <lastname>Gosling</lastname>
+          </author>
+          <price>57.48</price>
+     </book>
+     <book>
+          <title>Modern Operating Systems</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1992</year>
+          <author>
+               <firstname>Andrew</firstname>
+               <lastname>Tanenbaum</lastname>
+          </author>
+          <price>21.94</price>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

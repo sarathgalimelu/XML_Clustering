@@ -1,0 +1,71 @@
+<bib>
+
+  <vendor id="id13_14">
+     <name>Scientific Books On-Line</name>
+     <email>info@science.com</email>
+     <phone>1-888-111-2234</phone>
+
+     <book>
+          <title>The Java Programming Language</title>
+          <publisher>Addison Wesley</publisher>
+          
+          <author>
+               <firstname>Ken</firstname>
+               <lastname>Arnold</lastname>
+          </author>
+          <author>
+               <firstname>James</firstname>
+               <lastname>Gosling</lastname>
+          </author>
+          <price>17.79</price>
+     </book>
+     <book>
+          <title>Modern Operating Systems</title>
+          <publisher>Prentice Hall</publisher>
+          
+          <author>
+               <firstname>Andrew</firstname>
+               <lastname>Tanenbaum</lastname>
+          </author>
+          <price>91.77</price>
+     </book>
+     <book>
+          <title>Crafting a Compiler with C</title>
+          <publisher>Benjamin Cummings</publisher>
+          
+          <author>
+               <firstname>Charles</firstname>
+               <lastname>Fischer</lastname>
+          </author>
+          <author>
+               <firstname>Richard</firstname>
+               <lastname>LeBlanc</lastname>
+          </author>
+          <price>2.96</price>
+     </book>
+     <book>
+          <title>Problem Solving with C++</title>
+          <publisher>Addison Wesley</publisher>
+          
+          <author>
+               <firstname>Walter</firstname>
+               <lastname>Savitch</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

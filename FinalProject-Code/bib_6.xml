@@ -1,0 +1,117 @@
+<bib>
+
+  <vendor id="id6_7">
+     <name>Borders On-line</name>
+     <email>books@borders.com</email>
+     <phone>1-888-222-5678</phone>
+
+     <book>
+          <title>Principles of database systems</title>
+          <publisher>Computer Science Press</publisher>
+          <year>1980</year>
+          <author>
+               <firstname>Jeffery</firstname>
+               <lastname>Ullman</lastname>
+          </author>
+          <price>56.66</price>
+     </book>
+     <book>
+          <title>Wilderness challenge</title>
+          <publisher>National Geographic Society</publisher>
+          <year>1980</year>
+          <author>
+               <firstname>National</firstname>
+               <lastname>Geographic</lastname>
+          </author>
+          <price>15.25</price>
+     </book>
+     <book>
+          <title>Moving on - stories of four travelers</title>
+          <publisher>Scribner</publisher>
+          <year>1978</year>
+          <author>
+               <firstname>Jan</firstname>
+               <lastname>Adkins</lastname>
+          </author>
+          <price>93.62</price>
+     </book>
+     <book>
+          <title>Home in your pack; the modern handbook of backpacking</title>
+          <publisher>Collier Books</publisher>
+          <year>1972</year>
+          <author>
+               <firstname>Bradford</firstname>
+               <lastname>Angier</lastname>
+          </author>
+          <price>98.98</price>
+     </book>
+     <book>
+          <title>Guide on data models in the selection and use of database management systems</title>
+          <publisher>U.S. Dept of Commerce</publisher>
+          <year>1984</year>
+          <author>
+               <firstname>Leonard</firstname>
+               <lastname>Gallagher</lastname>
+          </author>
+          <author>
+               <firstname>Jesse</firstname>
+               <lastname>Draper</lastname>
+          </author>
+          <price>15.34</price>
+     </book>
+     <book>
+          <title>Rule-based query optimization in extensible database systems</title>
+          <publisher>UW Madison Thesis</publisher>
+          <year>1987</year>
+          <author>
+               <firstname>Goetz</firstname>
+               <lastname>Graefe</lastname>
+          </author>
+          <price>6.91</price>
+     </book>
+     <book>
+          <title>Handbook of computer-communications standards</title>
+          <publisher>Macmillan</publisher>
+          <year>1987</year>
+          <author>
+               <firstname>William</firstname>
+               <lastname>Stallings</lastname>
+          </author>
+          <price>30.73</price>
+     </book>
+     <book>
+          <title>The Origin of Species</title>
+          <publisher>J. Murray</publisher>
+          <year>1900</year>
+          <author>
+               <firstname>Charles</firstname>
+               <lastname>Darwin</lastname>
+          </author>
+          <price>19.40</price>
+     </book>
+     <book>
+          <title>The World of Odysseus</title>
+          <publisher>Penguin</publisher>
+          <year>1992</year>
+          <author>
+               <firstname>Mike</firstname>
+               <lastname>Finley</lastname>
+          </author>
+          <price>24.5</price>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

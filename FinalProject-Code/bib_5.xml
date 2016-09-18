@@ -1,0 +1,178 @@
+<bib>
+
+  <vendor id="id5_6">
+     <name>Powells Books On-Line</name>
+     <email>info@powells.com</email>
+
+     <book>
+          <title>Operating Systems Concepts</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>Abraham</firstname>
+               <lastname>Silberschatz</lastname>
+          </author>
+          <author>
+               <firstname>Peter</firstname>
+               <lastname>Galvin</lastname>
+          </author>
+          <price>47.95</price>
+     </book>
+     <book>
+          <title>Database Systems, readings in</title>
+          <publisher>Morgan Kaufmann</publisher>
+          <year>1998</year>
+          <author>
+               <firstname>Michael</firstname>
+               <lastname>Stonebraker</lastname>
+          </author>
+          <author>
+               <firstname>Joseph</firstname>
+               <lastname>Hellerstein</lastname>
+          </author>
+          <price>40.17</price>
+     </book>
+     <book>
+          <title>Data Abstraction and Problem Solving with C++</title>
+          <publisher>Benjamin Cummings</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>Frank</firstname>
+               <lastname>Carrano</lastname>
+          </author>
+          <price>17.1</price>
+     </book>
+     <book>
+          <title>Learning Perl</title>
+          <publisher>O'Reilly</publisher>
+          <year>1997</year>
+          <author>
+               <firstname>Randal</firstname>
+               <lastname>Schwartz</lastname>
+          </author>
+          <author>
+               <firstname>Tom</firstname>
+               <lastname>Christiansen</lastname>
+          </author>
+          <price>19.23</price>
+     </book>
+     <book>
+          <title>UNIX in a Nutshell</title>
+          <publisher>O'Reilly</publisher>
+          <year>1998</year>
+          <author>
+               <firstname>Daniel</firstname>
+               <lastname>Gilly</lastname>
+          </author>
+          <price>17.68</price>
+     </book>
+     <book>
+          <title>The Java Programming Language</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Ken</firstname>
+               <lastname>Arnold</lastname>
+          </author>
+          <author>
+               <firstname>James</firstname>
+               <lastname>Gosling</lastname>
+          </author>
+          <price>16.24</price>
+     </book>
+     <book>
+          <title>Modern Operating Systems</title>
+          <publisher>Prentice Hall</publisher>
+          <year>1992</year>
+          <author>
+               <firstname>Andrew</firstname>
+               <lastname>Tanenbaum</lastname>
+          </author>
+          <price>76.61</price>
+     </book>
+     <book>
+          <title>Crafting a Compiler with C</title>
+          <publisher>Benjamin Cummings</publisher>
+          <year>1991</year>
+          <author>
+               <firstname>Charles</firstname>
+               <lastname>Fischer</lastname>
+          </author>
+          <author>
+               <firstname>Richard</firstname>
+               <lastname>LeBlanc</lastname>
+          </author>
+          <price>91.41</price>
+     </book>
+     <book>
+          <title>Problem Solving with C++</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1996</year>
+          <author>
+               <firstname>Walter</firstname>
+               <lastname>Savitch</lastname>
+          </author>
+          <price>0.3</price>
+     </book>
+     <book>
+          <title>lex and yacc</title>
+          <publisher>O'Reilly</publisher>
+          <year>1995</year>
+          <author>
+               <firstname>John</firstname>
+               <lastname>Levine</lastname>
+          </author>
+          <author>
+               <firstname>Tony</firstname>
+               <lastname>Mason</lastname>
+          </author>
+          <author>
+               <firstname>Doug</firstname>
+               <lastname>Brown</lastname>
+          </author>
+          <price>98.13</price>
+     </book>
+     <book>
+          <title>Statistics, The Exploration and Analysis of Data</title>
+          <publisher>Duxbury</publisher>
+          <year>1993</year>
+          <author>
+               <firstname>Jay</firstname>
+               <lastname>Devore</lastname>
+          </author>
+          <author>
+               <firstname>Roxy</firstname>
+               <lastname>Peck</lastname>
+          </author>
+          <price>84.29</price>
+     </book>
+     <book>
+          <title>Fortran with Engineering Applications</title>
+          <publisher>Addison Wesley</publisher>
+          <year>1977</year>
+          <author>
+               <firstname>Elliot</firstname>
+               <lastname>Kauffman</lastname>
+          </author>
+          <author>
+               <firstname>Frank</firstname>
+               <lastname>Friedman</lastname>
+          </author>
+          <price>23.27</price>
+     </book>
+	 <book>
+          <title>Database Management Systems</title>
+          <publisher>Addison Wesley</publisher>
+          <author>
+               <firstname>Raghu</firstname>
+               <lastname>Ramakrishnan</lastname>
+          </author>
+		  <author>
+               <firstname>Johanes</firstname>
+               <lastname>Gehrke</lastname>
+          </author>
+          <price>66.71</price>
+     </book>
+  </vendor>
+</bib>
+

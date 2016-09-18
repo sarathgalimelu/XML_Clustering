@@ -1,0 +1,3322 @@
+<department>
+<deptname>Electrical Engineering</deptname>
+<gradstudent>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>4586129</phone>
+  <email>Robins.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>9451</office>
+  <gpa>1.944541560943787</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Bestor</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+  <phone>9465833</phone>
+  <email>Bestor.Jeff@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4064</office>
+  <gpa>2.122728117959465</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>8586179</phone>
+  <email>Papasotiriou.Terry@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>1689</office>
+  <gpa>1.427309994628371</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>4777735</phone>
+  <email>Robertson.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>2930</office>
+  <gpa>3.2341835540008708</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>3213124</phone>
+  <email>Papadopoulos.Markos@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>1425</office>
+  <gpa>3.658867761047972</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Green</lastname>
+  <firstname>Jennifer</firstname>
+  </name>
+  <phone>7689940</phone>
+  <email>Green.Jennifer@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>5149</office>
+  <gpa>0.473885194960586</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>6990253</phone>
+  <email>Zaniolo.Tanya@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4052</office>
+  <gpa>2.927071488088398</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Ivan</firstname>
+  </name>
+  <phone>3482818</phone>
+  <email>Robins.Ivan@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>8440</office>
+  <gpa>3.1250095167059317</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>4483700</phone>
+  <email>Steinbrecher.Donko@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>3516</office>
+  <gpa>3.3089876242881404</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>5645001</phone>
+  <email>Hill.Donko@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>3953</office>
+  <gpa>3.830120117416258</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Angelika</firstname>
+  </name>
+  <phone>2527339</phone>
+  <email>Robertson.Angelika@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>3091</office>
+  <gpa>3.5459982230168383</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>1961696</phone>
+  <email>Zaniolo.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>6001</office>
+  <gpa>1.9490965320760312</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>3151106</phone>
+  <email>Ross.Eugenia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>2289</office>
+  <gpa>2.6035132188710803</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Perruci</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+  <phone>8731086</phone>
+  <email>Perruci.Ronald@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>1308</office>
+  <gpa>0.45150357125557683</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Xena</firstname>
+  </name>
+  <phone>5337403</phone>
+  <email>Davenport.Xena@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>7922</office>
+  <gpa>0.27684137298650446</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>8086423</phone>
+  <email>Papadimitriou.Johnathan@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>3165</office>
+  <gpa>3.169804250293285</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>8459777</phone>
+  <email>Newman.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>2646</office>
+  <gpa>0.9432519043326795</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Makis</firstname>
+  </name>
+  <phone>7011503</phone>
+  <email>Abiteboul.Makis@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>5219</office>
+  <gpa>3.662748722915337</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Lewinski</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>4788301</phone>
+  <email>Lewinski.Pedro@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>6298</office>
+  <gpa>3.156891674790408</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>6826361</phone>
+  <email>Branco.Natassa@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>1648</office>
+  <gpa>2.4400549567925536</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>6513274</phone>
+  <email>Wilkinson.Anne@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>6928</office>
+  <gpa>1.9762947717315669</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>7096231</phone>
+  <email>Zaniolo.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>5511</office>
+  <gpa>0.3371723489418259</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>9548168</phone>
+  <email>Sellinger.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>5748</office>
+  <gpa>2.1295043460131278</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+  <phone>3207301</phone>
+  <email>Newman.Gerasimos@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>9845</office>
+  <gpa>2.0470127420798</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Carla</firstname>
+  </name>
+  <phone>5097857</phone>
+  <email>Newman.Carla@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4542</office>
+  <gpa>1.4726132107237286</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Alkis</firstname>
+  </name>
+  <phone>6602987</phone>
+  <email>Gray.Alkis@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>7970</office>
+  <gpa>1.0460788926861309</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>4261860</phone>
+  <email>Schumacher.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>5020</office>
+  <gpa>1.4845925088518057</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>6949025</phone>
+  <email>Caine.Markos@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>1005</office>
+  <gpa>0.4149468528386988</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>7395731</phone>
+  <email>Robertson.Johnathan@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>6884</office>
+  <gpa>0.2529027975728848</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>6577714</phone>
+  <email>Gray.Jim@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4227</office>
+  <gpa>0.5546004230335022</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Tova</firstname>
+  </name>
+  <phone>657060</phone>
+  <email>Branco.Tova@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>8002</office>
+  <gpa>1.716344569310373</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Joan</firstname>
+  </name>
+  <phone>6453121</phone>
+  <email>Papasotiriou.Joan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>5975</office>
+  <gpa>2.9352031830871614</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>7164556</phone>
+  <email>Newman.Markos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4243</office>
+  <gpa>0.7072001231034979</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>5820705</phone>
+  <email>Papadimitriou.Terry@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>6744</office>
+  <gpa>1.3645523708890845</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>17021</phone>
+  <email>Papadimitriou.Cleopatra@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4698</office>
+  <gpa>3.124705308946494</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>2596064</phone>
+  <email>Chirac.Amy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4302</office>
+  <gpa>0.599233400539652</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>2539894</phone>
+  <email>Caine.Amy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>6743</office>
+  <gpa>0.614573709943905</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Wong</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>566546</phone>
+  <email>Wong.Markos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>7278</office>
+  <gpa>2.399397569909699</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+  <phone>6505705</phone>
+  <email>Robins.Gerasimos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4641</office>
+  <gpa>2.350438836782965</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>1503290</phone>
+  <email>Robertson.Dorothy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>3163</office>
+  <gpa>2.4926662150012517</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>8634861</phone>
+  <email>Papadimitriou.Terry@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>177</office>
+  <gpa>1.5259744736689873</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>3405528</phone>
+  <email>Robertson.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>2191</office>
+  <gpa>1.6959441643062645</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>6817438</phone>
+  <email>Branco.Pedro@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>7429</office>
+  <gpa>0.27187504866318246</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Alkis</firstname>
+  </name>
+  <phone>138182</phone>
+  <email>Wilkinson.Alkis@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>326</office>
+  <gpa>3.1654353582413566</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>566302</phone>
+  <email>Branco.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>9828</office>
+  <gpa>0.8981138318221413</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>6711091</phone>
+  <email>Darwin.Giancarlo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>8857</office>
+  <gpa>2.1119311232351494</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>1047003</phone>
+  <email>Babbage.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>2741</office>
+  <gpa>1.3047198962581503</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>9135594</phone>
+  <email>Papadimitriou.Eugenia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4973</office>
+  <gpa>0.22501033606565057</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>8429416</phone>
+  <email>Branco.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>1022</office>
+  <gpa>1.4670135514850289</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Miller</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>8152361</phone>
+  <email>Miller.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4283</office>
+  <gpa>2.5781886703481725</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+  <phone>2537449</phone>
+  <email>Zaniolo.Gerasimos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>8357</office>
+  <gpa>0.13459418774709553</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>3842743</phone>
+  <email>Abiteboul.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>8750</office>
+  <gpa>3.206806787457365</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+  <phone>4072806</phone>
+  <email>Papadopoulos.Jeff@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4314</office>
+  <gpa>0.025659525533634486</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Bestor</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+  <phone>9122758</phone>
+  <email>Bestor.Gerasimos@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>9830</office>
+  <gpa>0.3185913750158891</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>761699</phone>
+  <email>Gray.Amy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>9265</office>
+  <gpa>2.2752444424079217</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Alkis</firstname>
+  </name>
+  <phone>7001006</phone>
+  <email>Papadimitriou.Alkis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>8944</office>
+  <gpa>3.857884713599652</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Perruci</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>6293535</phone>
+  <email>Perruci.Cleopatra@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>5704</office>
+  <gpa>2.8209666076012763</gpa>
+</gradstudent>
+<gradstudent>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>1105143</phone>
+  <email>Steinbrecher.Ralf@foo.edu</email>
+  <url>http://www/~[Ljava.lang.String;@11e3ecd</url>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>4659</office>
+  <gpa>1.7305524156466277</gpa>
+</gradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Wong</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>4141953</phone>
+  <email>Wong.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.5926493120596596</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Green</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>8088971</phone>
+  <email>Green.Dorothy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.9641414230684067</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+  <phone>6928703</phone>
+  <email>Sellinger.Jeff@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.307291276018938</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>8309102</phone>
+  <email>Zaniolo.Tanya@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.2110480327816373</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+  <phone>120870</phone>
+  <email>Wilkinson.Ronald@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.8187467767186192</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>6095678</phone>
+  <email>Darwin.Giancarlo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.2040134831509888</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>2441354</phone>
+  <email>Gustavson.Markos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.428516645625383</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>2832803</phone>
+  <email>Papasotiriou.Anne@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.9195090832624246</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>Stratis</firstname>
+  </name>
+  <phone>1514354</phone>
+  <email>VanGalder.Stratis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.4990499326238003</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>3745279</phone>
+  <email>Ross.Eugenia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.6950166965165505</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Makis</firstname>
+  </name>
+  <phone>8231851</phone>
+  <email>Chirac.Makis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.6510266243121308</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>6503762</phone>
+  <email>Tsangaris.Pedro@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.0423294078811378</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>David</firstname>
+  </name>
+  <phone>8475243</phone>
+  <email>Gustavson.David@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.4199645624569022</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Xena</firstname>
+  </name>
+  <phone>3045296</phone>
+  <email>Darwin.Xena@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.914901600863733</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Joan</firstname>
+  </name>
+  <phone>8580116</phone>
+  <email>Davenport.Joan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.9791455463452459</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>5838067</phone>
+  <email>Pirelli.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.4035630963897083</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>524944</phone>
+  <email>Caine.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.44047350050017</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+  <phone>3307620</phone>
+  <email>Robertson.Jeff@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.4159174469399374</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+  <phone>1724522</phone>
+  <email>Steinbrecher.Leonidas@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.6790361761647916</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>4910978</phone>
+  <email>Babbage.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.8978748932017777</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tzavaras</lastname>
+  <firstname>Joan</firstname>
+  </name>
+  <phone>377563</phone>
+  <email>Tzavaras.Joan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.766621742753601</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>6397186</phone>
+  <email>Davenport.Amy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.6630489157042767</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>9822637</phone>
+  <email>Hill.Cleopatra@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.1825271482450024</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Bestor</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>4785926</phone>
+  <email>Bestor.Natassa@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.5517022442677746</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>7471420</phone>
+  <email>Davenport.Tanya@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.29746160138609534</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>344422</phone>
+  <email>Sellinger.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.6526068327707284</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  <firstname>Carla</firstname>
+  </name>
+  <phone>5192988</phone>
+  <email>Papadopoulos.Carla@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.5614862873108666</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>6817688</phone>
+  <email>Papadopoulos.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.458093305612279</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>7004154</phone>
+  <email>Robertson.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.7955109692100848</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Mark</firstname>
+  </name>
+  <phone>8995107</phone>
+  <email>Kossman.Mark@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.4167626379449936</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Stratis</firstname>
+  </name>
+  <phone>6470976</phone>
+  <email>Caine.Stratis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.4761809573519433</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>8660611</phone>
+  <email>VanGalder.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.2943287071047633</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tzavaras</lastname>
+  <firstname>Stratis</firstname>
+  </name>
+  <phone>4144573</phone>
+  <email>Tzavaras.Stratis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.4668065763814826</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Green</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>1513885</phone>
+  <email>Green.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.507900072227418</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>4845238</phone>
+  <email>Newman.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.8955999389961957</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Jodi</firstname>
+  </name>
+  <phone>1861587</phone>
+  <email>Caine.Jodi@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.1822128298526353</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>4783852</phone>
+  <email>Shroeder.Cleopatra@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.4926671941832885</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>2012696</phone>
+  <email>Abiteboul.Terry@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.6699359239107094</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>9886509</phone>
+  <email>Newman.Amy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.407241223271197</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>5278802</phone>
+  <email>Steinbrecher.Natassa@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.8267048266428243</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+  <phone>3690654</phone>
+  <email>Davenport.Gerasimos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.1373123342269817</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>6343052</phone>
+  <email>Abiteboul.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.14204539858647536</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+  <phone>6639189</phone>
+  <email>Robertson.Leonidas@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.5784022576332726</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>9241123</phone>
+  <email>Caine.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.1693391480232096</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>8249187</phone>
+  <email>Papadimitriou.Natassa@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.2625122514681304</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Perruci</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>171069</phone>
+  <email>Perruci.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.403507863896793</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>616548</phone>
+  <email>Curtis.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.600539355457058</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>McPherson</lastname>
+  <firstname>David</firstname>
+  </name>
+  <phone>1349297</phone>
+  <email>McPherson.David@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.218667322883882</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>1086154</phone>
+  <email>Chirac.Terry@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.4124789199880508</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>9846830</phone>
+  <email>Gray.Ronaldo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.6566693622372273</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Dinkinson</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>5123719</phone>
+  <email>Dinkinson.Anne@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.3427960705296029</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Perruci</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>6118982</phone>
+  <email>Perruci.Eugenia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.27073289023617697</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>7832040</phone>
+  <email>Babbage.Giancarlo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.0892353959846846</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>Alkis</firstname>
+  </name>
+  <phone>5284666</phone>
+  <email>VanGalder.Alkis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.9583008734521417</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Stonebraker</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>5928292</phone>
+  <email>Stonebraker.Eugenia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.960328773694513</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>7276948</phone>
+  <email>Gustavson.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.4083749931079756</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+  <phone>7014087</phone>
+  <email>Ross.Leonidas@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.4207356662604318</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>2088554</phone>
+  <email>Babbage.Donko@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.647911791745877</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Lewinski</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>1706568</phone>
+  <email>Lewinski.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.3475925361067236</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Perruci</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>3445615</phone>
+  <email>Perruci.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.968933570124501</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+  <phone>7642810</phone>
+  <email>Sellinger.Lydia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.1310355300658701</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>8486911</phone>
+  <email>Chirac.Terry@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.58485925798277</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>4914204</phone>
+  <email>Branco.Markos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.9962776558911135</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>5187422</phone>
+  <email>Sellinger.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.5957149781673698</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>6430813</phone>
+  <email>Branco.Amy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.553848483129451</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Green</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>1283625</phone>
+  <email>Green.Dorothy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.6943754430324858</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>6763196</phone>
+  <email>Ross.Martin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.212122199951321</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>3929368</phone>
+  <email>Wilkinson.Anne@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.5393538459446523</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Angelika</firstname>
+  </name>
+  <phone>772161</phone>
+  <email>Kossman.Angelika@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.3878497263543328</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>3987238</phone>
+  <email>VanGalder.Terry@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.435915834974405</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>1832857</phone>
+  <email>Chirac.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.1643539882968992</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>1149345</phone>
+  <email>Robertson.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.0509914442432295</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Stonebraker</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>5612480</phone>
+  <email>Stonebraker.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.9741255467145198</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Stonebraker</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>9547817</phone>
+  <email>Stonebraker.Giancarlo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.045514307782307</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>2500632</phone>
+  <email>Gustavson.Ronaldo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.8860501144063568</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>9379786</phone>
+  <email>Ross.Tanya@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.0099697510498062</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>2154428</phone>
+  <email>Ross.Eugenia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.0831926126137015</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Bestor</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>9711054</phone>
+  <email>Bestor.Cleopatra@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.7671090426852847</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>849312</phone>
+  <email>VanGalder.George@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.113228411054848</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>5070399</phone>
+  <email>Curtis.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.3545232849664979</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Stonebraker</lastname>
+  <firstname>Angelika</firstname>
+  </name>
+  <phone>3970146</phone>
+  <email>Stonebraker.Angelika@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.5310473895660834</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>2891794</phone>
+  <email>Zaniolo.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.7760874877416124</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>5990401</phone>
+  <email>Pirelli.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.7450226678224583</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>7150646</phone>
+  <email>Jensen.Natassa@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.434731300713877</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Bestor</lastname>
+  <firstname>David</firstname>
+  </name>
+  <phone>1531715</phone>
+  <email>Bestor.David@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.400732927195272</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>2674200</phone>
+  <email>Branco.Tanya@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.1115785818981365</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Tanya</firstname>
+  </name>
+  <phone>7839100</phone>
+  <email>Curtis.Tanya@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.7268193536065213</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+  <phone>4243934</phone>
+  <email>Tsangaris.Lydia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.0827742450549356</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Mark</firstname>
+  </name>
+  <phone>9422636</phone>
+  <email>Robins.Mark@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.2279453249208596</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>9563399</phone>
+  <email>Ross.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.6723013245195295</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+  <phone>4284573</phone>
+  <email>Shroeder.Gerasimos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.302767824026533</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Angelika</firstname>
+  </name>
+  <phone>7909285</phone>
+  <email>Kossman.Angelika@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.9963192680947146</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+  <phone>1557776</phone>
+  <email>Zaniolo.Ronald@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.2162304693607986</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>9443471</phone>
+  <email>Hill.Ronaldo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.1940615725476995</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>7419861</phone>
+  <email>Gustavson.Ronaldo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.8536062210762823</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>9022653</phone>
+  <email>Caine.Ronaldo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.956642040565636</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Jodi</firstname>
+  </name>
+  <phone>8616198</phone>
+  <email>Davenport.Jodi@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.3793541186756326</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Cleopatra</firstname>
+  </name>
+  <phone>3339294</phone>
+  <email>Tsangaris.Cleopatra@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.115267138580875</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>6029012</phone>
+  <email>Abiteboul.Pedro@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.9302765671394733</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>Tova</firstname>
+  </name>
+  <phone>9458781</phone>
+  <email>Pirelli.Tova@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.4538720296773477</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>8580721</phone>
+  <email>Caine.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.4654602598419175</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>4534757</phone>
+  <email>Gray.George@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.3501170631965063</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>5874711</phone>
+  <email>Schumacher.Terry@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.613334440705344</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Gerasimos</firstname>
+  </name>
+  <phone>1595932</phone>
+  <email>Papadimitriou.Gerasimos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.467530085531239</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Dinkinson</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+  <phone>5780033</phone>
+  <email>Dinkinson.Lydia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.5996628708877725</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>867500</phone>
+  <email>Abiteboul.Eugenia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.2273974160631127</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tzavaras</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+  <phone>6487873</phone>
+  <email>Tzavaras.Ronald@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.9726887722183495</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Green</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>3839556</phone>
+  <email>Green.Martin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.4513089584390237</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>6143623</phone>
+  <email>Chirac.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.788747404057793</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Angelika</firstname>
+  </name>
+  <phone>2100371</phone>
+  <email>Schumacher.Angelika@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.216101083791549</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Xena</firstname>
+  </name>
+  <phone>3131392</phone>
+  <email>Schumacher.Xena@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.1717390533310104</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>1347348</phone>
+  <email>Gray.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.9968276550210828</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Jodi</firstname>
+  </name>
+  <phone>6506743</phone>
+  <email>Tsangaris.Jodi@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.763690646511523</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Tova</firstname>
+  </name>
+  <phone>4662396</phone>
+  <email>Ross.Tova@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.5473671712536423</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>5393420</phone>
+  <email>Jensen.Martin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.654509776936527</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Newman</lastname>
+  <firstname>Leonidas</firstname>
+  </name>
+  <phone>7436963</phone>
+  <email>Newman.Leonidas@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.2018733412049234</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>3742081</phone>
+  <email>Kossman.Giancarlo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.09273825147628623</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Jeff</firstname>
+  </name>
+  <phone>8757119</phone>
+  <email>Shroeder.Jeff@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.4555198114536405</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>9461269</phone>
+  <email>Wilkinson.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.8739099735289626</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Mark</firstname>
+  </name>
+  <phone>2768959</phone>
+  <email>Curtis.Mark@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.4444231374768144</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>McPherson</lastname>
+  <firstname>Tova</firstname>
+  </name>
+  <phone>5246769</phone>
+  <email>McPherson.Tova@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.0798098337015762</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Tova</firstname>
+  </name>
+  <phone>5853758</phone>
+  <email>Shroeder.Tova@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.4992644856511315</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>9535223</phone>
+  <email>Zaniolo.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.1637813814165683</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>VanGalder</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>6321411</phone>
+  <email>VanGalder.George@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.0645224011222303</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Caine</lastname>
+  <firstname>Giancarlo</firstname>
+  </name>
+  <phone>5877799</phone>
+  <email>Caine.Giancarlo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.670033638319063</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Ronald</firstname>
+  </name>
+  <phone>7906690</phone>
+  <email>Ross.Ronald@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.287384023208737</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  <firstname>Stratis</firstname>
+  </name>
+  <phone>5062246</phone>
+  <email>Papadopoulos.Stratis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.6269252755884058</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Green</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>4408919</phone>
+  <email>Green.Dorothy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.3818755805149254</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Donko</firstname>
+  </name>
+  <phone>7805886</phone>
+  <email>Zaniolo.Donko@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.4162443952417547</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Tzavaras</lastname>
+  <firstname>Jennifer</firstname>
+  </name>
+  <phone>3291378</phone>
+  <email>Tzavaras.Jennifer@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.9215552527147204</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Joan</firstname>
+  </name>
+  <phone>4502799</phone>
+  <email>Shroeder.Joan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.3058333428131133</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Babbage</lastname>
+  <firstname>Maria</firstname>
+  </name>
+  <phone>1547601</phone>
+  <email>Babbage.Maria@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.5277869546866047</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Dorothy</firstname>
+  </name>
+  <phone>8947256</phone>
+  <email>Abiteboul.Dorothy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.517307571921766</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Mark</firstname>
+  </name>
+  <phone>8399901</phone>
+  <email>Jensen.Mark@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.582190587471364</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Bestor</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>3189644</phone>
+  <email>Bestor.Natassa@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.422376850833135</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>9828972</phone>
+  <email>Ross.Johnathan@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.7458699281037844</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Branco</lastname>
+  <firstname>Natassa</firstname>
+  </name>
+  <phone>2634808</phone>
+  <email>Branco.Natassa@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.0211662596512237</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Alkis</firstname>
+  </name>
+  <phone>8106845</phone>
+  <email>Sellinger.Alkis@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.921487947166468</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>2495755</phone>
+  <email>Sellinger.Pedro@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.117239777214014</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Wilkinson</lastname>
+  <firstname>Jodi</firstname>
+  </name>
+  <phone>1639428</phone>
+  <email>Wilkinson.Jodi@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.1167270027488758</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Zaniolo</lastname>
+  <firstname>Jennifer</firstname>
+  </name>
+  <phone>6004519</phone>
+  <email>Zaniolo.Jennifer@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.49253747177520557</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Sellinger</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>2896397</phone>
+  <email>Sellinger.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.291156343758951</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Abiteboul</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>9999126</phone>
+  <email>Abiteboul.Ronaldo@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.8894142272142247</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Wong</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>4048408</phone>
+  <email>Wong.Anne@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.087579037342756</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Jodi</firstname>
+  </name>
+  <phone>7199971</phone>
+  <email>Darwin.Jodi@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.7772154976076004</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Chirac</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>5334036</phone>
+  <email>Chirac.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.3205623452649475</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>McPherson</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>5615499</phone>
+  <email>McPherson.Pedro@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.8306057903988435</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>1987117</phone>
+  <email>Papasotiriou.Pedro@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.738608556551976</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Hill</lastname>
+  <firstname>Carla</firstname>
+  </name>
+  <phone>1937257</phone>
+  <email>Hill.Carla@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.951971381918943</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Dinkinson</lastname>
+  <firstname>Jim</firstname>
+  </name>
+  <phone>3771331</phone>
+  <email>Dinkinson.Jim@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.974328125691612</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+  <phone>6765712</phone>
+  <email>Kossman.Lydia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.7689298536061129</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Darwin</lastname>
+  <firstname>Amy</firstname>
+  </name>
+  <phone>1451018</phone>
+  <email>Darwin.Amy@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.3935606443669486</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>8224554</phone>
+  <email>Kossman.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.1310701230414475</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Lydia</firstname>
+  </name>
+  <phone>6689887</phone>
+  <email>Robertson.Lydia@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.956687925508397</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Ross</lastname>
+  <firstname>Ralf</firstname>
+  </name>
+  <phone>6552584</phone>
+  <email>Ross.Ralf@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.580808839430037</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>3383150</phone>
+  <email>Gray.Pedro@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>1.9829255246331856</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Jennifer</firstname>
+  </name>
+  <phone>4095036</phone>
+  <email>Shroeder.Jennifer@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.5074556173065354</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  <firstname>Markos</firstname>
+  </name>
+  <phone>6920613</phone>
+  <email>Papasotiriou.Markos@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>3.193195856279265</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Davenport</lastname>
+  <firstname>Anne</firstname>
+  </name>
+  <phone>2642962</phone>
+  <email>Davenport.Anne@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.199513278859508</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>George</firstname>
+  </name>
+  <phone>3631632</phone>
+  <email>Robins.George@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.493811205314615</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>Marvin</firstname>
+  </name>
+  <phone>7088806</phone>
+  <email>Gustavson.Marvin@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>2.838688512134811</gpa>
+</undergradstudent>
+<undergradstudent>
+  <name>
+  <lastname>Shroeder</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>1117005</phone>
+  <email>Shroeder.Terry@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <gpa>0.10865656163873938</gpa>
+</undergradstudent>
+<faculty>
+  <name>
+  <lastname>Curtis</lastname>
+  <firstname>Johnathan</firstname>
+  </name>
+  <phone>3108301</phone>
+  <email>Curtis.Johnathan@foo.edu</email>
+  <office>241</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>Jensen</lastname>
+  <firstname>Ivan</firstname>
+  </name>
+  <phone>4728480</phone>
+  <email>Jensen.Ivan@foo.edu</email>
+  <office>3994</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>Kossman</lastname>
+  <firstname>Terry</firstname>
+  </name>
+  <phone>3861872</phone>
+  <email>Kossman.Terry@foo.edu</email>
+  <office>8536</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>Tsangaris</lastname>
+  <firstname>Joan</firstname>
+  </name>
+  <phone>6333578</phone>
+  <email>Tsangaris.Joan@foo.edu</email>
+  <office>3142</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>Gustavson</lastname>
+  <firstname>Xena</firstname>
+  </name>
+  <phone>1764491</phone>
+  <email>Gustavson.Xena@foo.edu</email>
+  <office>9832</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>Pirelli</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>5181509</phone>
+  <email>Pirelli.Martin@foo.edu</email>
+  <office>9694</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>Olajuwon</lastname>
+  <firstname>Ronaldo</firstname>
+  </name>
+  <phone>9167130</phone>
+  <email>Olajuwon.Ronaldo@foo.edu</email>
+  <office>3044</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>McPherson</lastname>
+  <firstname>Stratis</firstname>
+  </name>
+  <phone>3271387</phone>
+  <email>McPherson.Stratis@foo.edu</email>
+  <office>2469</office>
+</faculty>
+<faculty>
+  <name>
+  <lastname>Robertson</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>6988086</phone>
+  <email>Robertson.Pedro@foo.edu</email>
+  <office>660</office>
+</faculty>
+<staff>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>6735818</phone>
+  <email>Robins.Pedro@foo.edu</email>
+</staff>
+<staff>
+  <name>
+  <lastname>Dinkinson</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>6444919</phone>
+  <email>Dinkinson.Jason@foo.edu</email>
+</staff>
+<staff>
+  <name>
+  <lastname>Schumacher</lastname>
+  <firstname>Eugenia</firstname>
+  </name>
+  <phone>2987254</phone>
+  <email>Schumacher.Eugenia@foo.edu</email>
+</staff>
+<staff>
+  <name>
+  <lastname>Papadimitriou</lastname>
+  <firstname>Pedro</firstname>
+  </name>
+  <phone>7549873</phone>
+  <email>Papadimitriou.Pedro@foo.edu</email>
+</staff>
+<staff>
+  <name>
+  <lastname>Gray</lastname>
+  <firstname>Martin</firstname>
+  </name>
+  <phone>1534292</phone>
+  <email>Gray.Martin@foo.edu</email>
+</staff>
+<staff>
+  <name>
+  <lastname>Lewinski</lastname>
+  <firstname>Mark</firstname>
+  </name>
+  <phone>4442884</phone>
+  <email>Lewinski.Mark@foo.edu</email>
+</staff>
+<gradstudent>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>4586129</phone>
+  <email>Robins.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>9451</office>
+  <gpa>1.944541560943787</gpa>
+</gradstudent>
+
+<gradstudent>
+  <name>
+  <lastname>Robins</lastname>
+  <firstname>Jason</firstname>
+  </name>
+  <phone>4586129</phone>
+  <email>Robins.Jason@foo.edu</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <office>9451</office>
+  <gpa>1.944541560943787</gpa>
+</gradstudent>
+</department>

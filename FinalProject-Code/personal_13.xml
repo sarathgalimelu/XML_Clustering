@@ -1,0 +1,89 @@
+<company id="id13_14">
+  <cname>Yahoo</cname>
+  <address>
+     <street>4 El Camino Real</street>
+     <city>Menlo Park</city>
+     <state>CA</state>
+     <zip>44576</zip>
+  </address>
+  <personnel>
+     <person>
+          <name>
+               <given>Erin</given>
+               <family>Raymonds</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Mattew</given>
+               <family>Welch</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Larry</given>
+               <family>Palmquist</family>
+          </name>
+          <email>peterson@stanford.edu</email>
+          <url>http://www.stanford.edu/~networks</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Lars</given>
+               <family>Kauffmann</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Abraham</given>
+               <family>Silberschatz</family>
+          </name>
+          <email>os@utexas.edu</email>
+          <url>http://www.utexas.edu/operating_sys</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Peter</given>
+               <family>Galvin</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Michael</given>
+               <family>Stonebraker</family>
+          </name>
+          <email>stne@informix.com</email>
+          <url>http://www.informix.com/stonebraker</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Joe</given>
+               <family>Heller</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Fran</given>
+               <family>Car</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Randy</given>
+               <family>Schnell</family>
+          </name>
+     </person>
+
+   </personnel>
+</company>

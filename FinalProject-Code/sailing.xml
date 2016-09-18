@@ -1,0 +1,154 @@
+<club>
+<clubname>Sailing</clubname>
+<member>
+  <name>
+  <lastname>Newman</lastname>
+
+  </name>
+  <phone>5418465</phone>
+  <email>Newman.Ronald@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Pirelli</lastname>
+  
+  </name>
+  <phone>9132915</phone>
+  <email>Pirelli.George@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Papasotiriou</lastname>
+  
+  </name>
+  <phone>7299644</phone>
+  <email>Papasotiriou.Judith@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Chirac</lastname>
+  
+  </name>
+  <phone>4401659</phone>
+  <email>Chirac.Ralf@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Steinbrecher</lastname>
+  
+  </name>
+  <phone>1535040</phone>
+  <email>Steinbrecher.Terry@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Stonebraker</lastname>
+  
+  </name>
+  <phone>6598888</phone>
+  <email>Stonebraker.Mark@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Ross</lastname>
+  
+  </name>
+  <phone>2816529</phone>
+  <email>Ross.Dorothy@coldmail.com</email>
+  <title>regular</title>
+</member>
+<member>
+  <name>
+  <lastname>Olajuwon</lastname>
+  
+  </name>
+  <phone>9223632</phone>
+  <email>Olajuwon.Jodi@coldmail.com</email>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Sellinger</lastname>
+  
+  </name>
+  <phone>2350438</phone>
+  <email>Sellinger.Angelika@coldmail.com</email>
+  <title>founder</title>
+</member>
+<member>
+  <name>
+  <lastname>Papadopoulos</lastname>
+  
+  </name>
+  <phone>3112491</phone>
+  <email>Papadopoulos.Joan@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Zaniolo</lastname>
+  
+  </name>
+  <phone>4552155</phone>
+  <email>Zaniolo.Jennifer@coldmail.com</email>
+</member>
+<member>
+  <name>
+  <lastname>Tsangaris</lastname>
+  
+  </name>
+  <phone>2783367</phone>
+  <email>Tsangaris.Amy@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+  <title>visitor</title>
+</member>
+<member>
+  <name>
+  <lastname>Miller</lastname>
+
+  </name>
+  <phone>1692057</phone>
+  <email>Miller.Carla@coldmail.com</email>
+  <title>board</title>
+</member>
+<member>
+  <name>
+  <lastname>Caine</lastname>
+
+  </name>
+  <phone>4223424</phone>
+  <email>Caine.Dorothy@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+<member>
+  <name>
+  <lastname>McPherson</lastname>
+
+  </name>
+  <phone>5985657</phone>
+  <email>McPherson.Carla@coldmail.com</email>
+  <address>
+  <city>Janesville</city>
+  <state>WI</state>
+  <zip>53708</zip>
+  </address>
+</member>
+</club>

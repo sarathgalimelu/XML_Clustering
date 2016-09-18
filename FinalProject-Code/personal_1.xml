@@ -1,0 +1,74 @@
+<company id="id1_2">
+  <cname>Microsoft</cname>
+  <address>
+     <street>2345 OS way</street>
+     <city>Redmond</city>
+     <state>WA</state>
+     <zip>44897</zip>
+  </address>
+  <personnel>
+     <person>
+          <name>
+               <given>Raghu</given>
+               <family>Ramakrishnan</family>
+          </name>
+          <email>raghu@cs.wisc.edu</email>
+          <url>http://www.cs.wisc.edu/~raghu</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Richard</given>
+               <family>Stevens</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Joe</given>
+               <family>Levins</family>
+          </name>
+          <email>null</email>
+     </person>
+
+     <person>
+          <name>
+               <given>John</given>
+               <family>Perrot</family>
+          </name>
+          <url>http://null</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Billy</given>
+               <family>Rosenberg</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Bruce</given>
+               <family>Davie</family>
+          </name>
+          <email>bdavie@umass.edu</email>
+          <url>http://www.umass.edu/~davie</url>
+     </person>
+
+     <person>
+          <name>
+               <given>Erin</given>
+               <family>Raymonds</family>
+          </name>
+     </person>
+
+     <person>
+          <name>
+               <given>Mattew</given>
+               <family>Welch</family>
+          </name>
+     </person>
+
+   </personnel>
+</company>
